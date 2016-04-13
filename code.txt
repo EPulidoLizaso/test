@@ -1,1 +1,2 @@
 1 prueba de git
+2 segunda linea funcionalidad
